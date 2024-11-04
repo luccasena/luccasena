@@ -19,7 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucca&hide_progress=true)
 
 
-### Olá 👋, eu me chamo Lucca de Sena Barbosa:
+### Olá 👋:
 
 <p>Sou estudante de ciências da computação e desejo me tornar um Machine Learning Engineer.</p>
 <p>Esse perfil foi criado com fins de compartilhar todo meu conhecimento na área de inteligência artificial, tal área que está tão em alta atualmente.</p>
