@@ -20,7 +20,7 @@
 
 ### Olá 👋:
 
-<p>Sou estudante de Ciências da Computação, cursando atualmente o 3º período na faculdade Unipê.</p>
-<p>Todo conhecimento que adquiro é destinado para área de dados, pois pretendo me tornar um especialista em Inteligência Artificial e poder fornecer insights baseado em dados para as empresas</p>
+<p>Sou estudante de Ciência da Computação, cursando atualmente o 3º período na faculdade Unipê.</p>
+<p>Meu foco de aprendizado é a área de dados, pois pretendo me tornar um especialista em Inteligência Artificial e fornecer insights baseados em dados para empresas.</p>
 
 
