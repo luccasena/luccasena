@@ -20,6 +20,7 @@
 
 ### Olá 👋:
 
-<p>Sou estudante de Ciências da Computação e pretendo me tornar um Machine Learning Engineer.</p>
+<p>Sou estudante de Ciências da Computação, cursando atualmente o 3º período na faculdade Unipê.</p>
+<p>Todo conhecimento que adquiro é destinado para área de dados, pois pretendo me tornar um especialista em Inteligência Artificial e poder fornecer insights baseado em dados para as empresas</p>
 
 
