@@ -20,6 +20,6 @@
 
 ### Olá 👋:
 
-<p>Sou estudante de ciências da computação e desejo me tornar um Machine Learning Engineer.</p>
-<p>Esse perfil foi criado com fins de compartilhar todo meu conhecimento na área de inteligência artificial, tal área que está tão em alta atualmente.</p>
-<p>Obrigado pelo seu tempo e espero que algum dos meus repositórios ajude no seu conhecimento! :D</p>
+<p>Sou estudante de Ciências da Computação e pretendo me tornar um Machine Learning Engineer.</p>
+
+
