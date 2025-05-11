@@ -1,11 +1,11 @@
-## Seja bem-vindo ao meu perfil do GitHub!
+## Welcome to my profile on Github!
 
-### Olá 👋:
+### Hello 👋:
 
-<p>Sou estudante de Ciência da Computação, cursando atualmente o 3º período na faculdade Unipê.</p>
-<p>Meu foco de aprendizado é a área de dados, pois pretendo me tornar um especialista em Inteligência Artificial e fornecer insights baseados em dados para empresas.</p>
+<p>I am a student of Computer Science with a focus in Data Science.</p>
+<p>My goal for the future is to become a Specialist in Artificial Intelligence and provide data-driven solutions to companies.</p>
 
-### - Redes Sociais: 
+### - Social Medias:
 
 <div style="display: inline_block"><br>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-### - Tecnologias: 
+### - Technologys: 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
