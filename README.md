@@ -14,6 +14,7 @@
   - 🌍 Based in Brazil
   - 📊 As a data enthusiast, I am always seeking knowledge.
   - 📚 Currently learning **Machine Learning, Deep Learning, AI Agents**
+   ### 📃 My curriculum - <a href="docs/Lucca de Sena Barbosa - Inteligência Artificial.pdf">**Click Here**</a>
 
 </div>
 <div>
@@ -46,7 +47,7 @@
 
   ## ⚙️ Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=py,c,mysql,postgres,anaconda,sklearn,tensorflow,git)](https://skillicons.dev)         
+  [![My Skills](https://skillicons.dev/icons?i=py,c,java,mysql,postgres,anaconda,sklearn,tensorflow,opencv,git)](https://skillicons.dev)         
 
 ---
 
