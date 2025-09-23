@@ -14,7 +14,7 @@
   - 🌍 Based in Brazil
   - 📊 As a data enthusiast, I am always seeking knowledge.
   - 📚 Currently learning **Machine Learning, Deep Learning, AI Agents**
-   ### 📃 My curriculum - <a href="docs/Lucca de Sena Barbosa - Inteligência Artificial.pdf">**Click Here**</a>
+   ### 📃 My curriculum - <a href="docs/Lucca de Sena Barbosa - Cientista de Dados.pdf">**Click Here**</a>
 
 </div>
 <div>
