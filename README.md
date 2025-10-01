@@ -45,9 +45,30 @@
 
 ---
 
-  ## ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-  [![My Skills](https://skillicons.dev/icons?i=py,c,java,mysql,postgres,anaconda,sklearn,tensorflow,opencv,git)](https://skillicons.dev)         
+### Programming Languages
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+### Framework
+[![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+
+### Databases
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+
+### Machine Learning Libraries
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev) 
+[![Scikit-learn](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev) 
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev) 
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+
+### Version Control
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+
 
 ---
 
@@ -55,8 +76,8 @@
 
 <div align="center">
   
-  ![Lucca Sena GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasena&show_icons=true&theme=transparent)
-
+  ![Lucca Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasena&show_icons=true&theme=transparent)
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luccasena&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" />
   
 </div>
