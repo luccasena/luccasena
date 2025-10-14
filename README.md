@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile!
+<h1 align="center">Welcome to my GitHub profile!</h1>
 
 <h2><img src="imgs/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px"> Hello!</h2>
 
@@ -49,16 +49,19 @@
 
 ### Programming Languages
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev) 
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
 ### Framework
 [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+[![Next](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
 
 ### Databases
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
 ### Machine Learning Libraries
 [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://skillicons.dev) 
@@ -72,7 +75,7 @@
 
 ---
 
-## 📈 GitHub Metrics Dashboard  
+## <h1 align="center">📈 GitHub Metrics Dashboard  </h1>
 
 <div align="center">
   
