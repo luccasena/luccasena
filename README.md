@@ -32,7 +32,7 @@
   
 ## 📫 How to reach me
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/luccasenab/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucca-sena) [![Discord](https://skillicons.dev/icons?i=discord)]([https://www.linkedin.com/in/lucca-sena](https://discord.com/users/754177812923154553)) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luccasena22@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/luccasenab/) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucca-sena) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/754177812923154553) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:luccasena22@gmail.com)
   
   
 </div>
