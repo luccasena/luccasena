@@ -2,17 +2,18 @@
 
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-<div  style="display: flex; justify-content: space-between;">
-  <div>
+<div  style="display: flex;">
+
   <h2><img src="imgs/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50px"> Hello!</h2>
   
   🎓 I'm a **Computer Science student** focused on **AI Engineer**.
+  
   🚀 My goal is to become an **AI Specialist** and provide **data-driven insights and solutions** to companies.
+  
   💡 I’m constantly seeking real-world challenges to improve my skills and grow professionally.
-  </div>
-  <div>  
-    <img src="imgs/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="curriculum" width="200px" style="display">  </img>
-  </div>
+
+  <img src="imgs/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" alt="curriculum" width="200px" style="display">  </img>
+  
 
 </div>
 
